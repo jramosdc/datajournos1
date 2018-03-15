@@ -1,4 +1,6 @@
-# The main phases of data insight extraction
+The main phases of data insight extraction
+
+
 . Hypothesis
 . Problem evaluation
 . Data sources indenfication
