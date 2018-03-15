@@ -8,6 +8,7 @@ The main phases of data insight extraction
 . Processing
 . Outlier, trend extraction
 . Real world verification
+
 -------
 For hypothesis ideation we need a great deal of real world experience, reporting and good luck!
 ie.: Those who migrated outside Spain during the crisis are now returning to main urban areas, increasing the pace of depopulation in the rest of the country.
