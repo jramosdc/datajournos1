@@ -55,7 +55,3 @@ Test your conclusion against the real world. Find your biases and  peer review 
 The problem of projection
 
 The flawness of heatmaps
-
-Soccer database
-
- https://www.kaggle.com/hugomathien/soccer
